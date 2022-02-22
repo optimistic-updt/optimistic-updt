@@ -47,7 +47,7 @@ So far my path have led me to use JavaScript and Ruby.
 <br />
 
 
-![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=CumulusGround&count_private=true&show_icons=true&bg_color=45,FF69F0,BB4DFF&title_color=fff&text_color=fff&icon_color=ffff3d)
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=optimistic-updt&count_private=true&show_icons=true&bg_color=45,FF69F0,BB4DFF&title_color=fff&text_color=fff&icon_color=ffff3d)
 
 
 
