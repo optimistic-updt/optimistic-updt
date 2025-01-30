@@ -24,7 +24,7 @@ So far my path have led me to use JavaScript and Ruby.
 - 💬 Ask me about Music, Skateboarding, CSS, Tooltips!
 - 📫 How to reach me: follow the breadcrumbs
 - 😄 Pronouns: He
-- ⚡ Fun fact: Apparently I'm the only one to call Amazon Web Services awesome.....I mean it looks like it => AWS
+- ⚡ Fun fact: Apparently I'm the only one to call Amazon Web Services "Awesome".....I mean it looks like it => AWS
 
 
 ---
@@ -51,6 +51,6 @@ So far my path have led me to use JavaScript and Ruby.
 
 
 
-[twitter]: https://twitter.com/CumulusGround
-[instagram]: https://www.instagram.com/kevinthemix/
+[twitter]: https://x.com/optimistic_updt
+[instagram]: https://www.instagram.com/optimistic_update/
 [linkedin]: https://www.linkedin.com/in/kevgarciaf/
